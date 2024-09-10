@@ -9,4 +9,4 @@ This markdown file contains a collection of useful Photoshop shortcuts. We will 
 | **Ctrl + T**    | Scale            |
 | **Alt + '+'**   | Zoom In / Zoom Out|
 | **Ctrl + R**    | Toggle Rulers    |
-| **U**           | Shapes           |
+
