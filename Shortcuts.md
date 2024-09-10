@@ -1,9 +1,11 @@
 # Photoshop Shortcuts
 
-This document is a collection of useful Photoshop shortcuts to enhance your workflow. We will keep adding shortcuts as we learn more.
+This markdown file contains a collection of useful Photoshop shortcuts. We will continue to add more as we progress.
 
-## Current Shortcuts
+## Shortcuts
 
-- **Ctrl + T**: Scale
-- **Alt + '+'**: Zoom In / Zoom Out
-- **Ctrl + R**: Toggle Rulers
+| Shortcut        | Action           |
+|-----------------|------------------|
+| **Ctrl + T**    | Scale            |
+| **Alt + '+'**   | Zoom In / Zoom Out|
+| **Ctrl + R**    | Toggle Rulers    |
