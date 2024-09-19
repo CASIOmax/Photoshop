@@ -1,4 +1,4 @@
-# Blending Images and Advanced Masking in Photoshop
+# Blending Images and Advanced Masking
 
 This document covers the techniques of blending images, using masks, advanced masking techniques, and working with the Lasso Tool in Photoshop.
 
