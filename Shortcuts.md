@@ -10,3 +10,9 @@ This markdown file contains a collection of useful Photoshop shortcuts. We will 
 | **Alt + '+'**   | Zoom In / Zoom Out|
 | **Ctrl + R**    | Toggle Rulers    |
 
+## Quick Selection
+
+- **Quick Selection Tool Shortcut**: `W`
+- **Increase Brush Size**: `]`
+- **Decrease Brush Size**: `[`
+- **Alt + Right-click (Windows)** or **Control + Option (Mac)**, then drag left or right to change brush size.
